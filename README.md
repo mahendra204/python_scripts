@@ -10,6 +10,10 @@ creation of getting desktop pop up using python as you can see in the note book 
 import time and plyer
 then from plyer import notification and proceed to write some script then according to the requirement and message we need to pop up.
 
+## 3
+creating acronyms in python. this will give us the out put as first letter in every word in a long sentenses you want either in capital or small letters.
+here i just used split function it will split the text into parts according to the splitting delimeter either space or comma or anything you want.
+
 
 Thanks for visiting keep learning.
 
